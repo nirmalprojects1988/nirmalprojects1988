@@ -5,7 +5,7 @@
 - 📫 I can be reachable via email which is nirmal.chakraborty21@outloook.com
 
 
--Skills & languages:-
+ Skills & languages:-
 Java,Selenium,Restassured,JavaScript,Docker, Jenkins, Git,Postman
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalprojects1988)](https://github.com/anuraghazra/github-readme-stats)
