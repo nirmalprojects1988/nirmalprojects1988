@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Javascript which i will use JavaScript based automation tool
 - 💞️ I’m looking to collaborate on web based software testing projects
 - 📫 I can be reachable via email which is nirmal.chakraborty21@outloook.com
+
+
 -Skills & languages 
- 
- Java,Selenium,Restassured,JavaScript
+Java,Selenium,Restassured,JavaScript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmalprojects1988)](https://github.com/anuraghazra/github-readme-stats)
 <!---
